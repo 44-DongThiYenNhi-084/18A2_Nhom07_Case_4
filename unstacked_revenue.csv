@@ -1,0 +1,145 @@
+product_name,hour,revenue
+Bac  Xiu,0.0,0.0
+Bac  Xiu,1.0,0.0
+Bac  Xiu,2.0,140000.0
+Bac  Xiu,3.0,0.0
+Bac  Xiu,4.0,0.0
+Bac  Xiu,5.0,35000.0
+Bac  Xiu,6.0,70000.0
+Bac  Xiu,7.0,105000.0
+Bac  Xiu,8.0,0.0
+Bac  Xiu,9.0,0.0
+Bac  Xiu,10.0,0.0
+Bac  Xiu,11.0,0.0
+Bac  Xiu,12.0,70000.0
+Bac  Xiu,13.0,70000.0
+Bac  Xiu,14.0,70000.0
+Bac  Xiu,15.0,0.0
+Bac  Xiu,16.0,0.0
+Bac  Xiu,17.0,0.0
+Bac  Xiu,18.0,0.0
+Bac  Xiu,19.0,0.0
+Bac  Xiu,20.0,0.0
+Bac  Xiu,21.0,70000.0
+Bac  Xiu,22.0,0.0
+Bac  Xiu,23.0,0.0
+Ca Phe Den,0.0,0.0
+Ca Phe Den,1.0,0.0
+Ca Phe Den,2.0,0.0
+Ca Phe Den,3.0,45000.0
+Ca Phe Den,4.0,135000.0
+Ca Phe Den,5.0,0.0
+Ca Phe Den,6.0,90000.0
+Ca Phe Den,7.0,0.0
+Ca Phe Den,8.0,0.0
+Ca Phe Den,9.0,90000.0
+Ca Phe Den,10.0,0.0
+Ca Phe Den,11.0,0.0
+Ca Phe Den,12.0,0.0
+Ca Phe Den,13.0,0.0
+Ca Phe Den,14.0,0.0
+Ca Phe Den,15.0,135000.0
+Ca Phe Den,16.0,0.0
+Ca Phe Den,17.0,0.0
+Ca Phe Den,18.0,0.0
+Ca Phe Den,19.0,0.0
+Ca Phe Den,20.0,90000.0
+Ca Phe Den,21.0,0.0
+Ca Phe Den,22.0,0.0
+Ca Phe Den,23.0,0.0
+Ca Phe Sua,0.0,0.0
+Ca Phe Sua,1.0,0.0
+Ca Phe Sua,2.0,0.0
+Ca Phe Sua,3.0,0.0
+Ca Phe Sua,4.0,35000.0
+Ca Phe Sua,5.0,105000.0
+Ca Phe Sua,6.0,105000.0
+Ca Phe Sua,7.0,0.0
+Ca Phe Sua,8.0,105000.0
+Ca Phe Sua,9.0,0.0
+Ca Phe Sua,10.0,140000.0
+Ca Phe Sua,11.0,105000.0
+Ca Phe Sua,12.0,0.0
+Ca Phe Sua,13.0,35000.0
+Ca Phe Sua,14.0,0.0
+Ca Phe Sua,15.0,0.0
+Ca Phe Sua,16.0,0.0
+Ca Phe Sua,17.0,105000.0
+Ca Phe Sua,18.0,35000.0
+Ca Phe Sua,19.0,35000.0
+Ca Phe Sua,20.0,0.0
+Ca Phe Sua,21.0,0.0
+Ca Phe Sua,22.0,70000.0
+Ca Phe Sua,23.0,0.0
+Matcha Latte,0.0,0.0
+Matcha Latte,1.0,140000.0
+Matcha Latte,2.0,0.0
+Matcha Latte,3.0,0.0
+Matcha Latte,4.0,105000.0
+Matcha Latte,5.0,0.0
+Matcha Latte,6.0,35000.0
+Matcha Latte,7.0,0.0
+Matcha Latte,8.0,0.0
+Matcha Latte,9.0,0.0
+Matcha Latte,10.0,105000.0
+Matcha Latte,11.0,0.0
+Matcha Latte,12.0,0.0
+Matcha Latte,13.0,0.0
+Matcha Latte,14.0,0.0
+Matcha Latte,15.0,0.0
+Matcha Latte,16.0,35000.0
+Matcha Latte,17.0,0.0
+Matcha Latte,18.0,0.0
+Matcha Latte,19.0,0.0
+Matcha Latte,20.0,0.0
+Matcha Latte,21.0,0.0
+Matcha Latte,22.0,0.0
+Matcha Latte,23.0,0.0
+Sinh To Xoai,0.0,0.0
+Sinh To Xoai,1.0,0.0
+Sinh To Xoai,2.0,0.0
+Sinh To Xoai,3.0,0.0
+Sinh To Xoai,4.0,0.0
+Sinh To Xoai,5.0,60.0
+Sinh To Xoai,6.0,90.0
+Sinh To Xoai,7.0,0.0
+Sinh To Xoai,8.0,0.0
+Sinh To Xoai,9.0,0.0
+Sinh To Xoai,10.0,0.0
+Sinh To Xoai,11.0,0.0
+Sinh To Xoai,12.0,0.0
+Sinh To Xoai,13.0,0.0
+Sinh To Xoai,14.0,0.0
+Sinh To Xoai,15.0,0.0
+Sinh To Xoai,16.0,0.0
+Sinh To Xoai,17.0,90.0
+Sinh To Xoai,18.0,0.0
+Sinh To Xoai,19.0,0.0
+Sinh To Xoai,20.0,0.0
+Sinh To Xoai,21.0,0.0
+Sinh To Xoai,22.0,0.0
+Sinh To Xoai,23.0,120.0
+Tra Dao,0.0,45000.0
+Tra Dao,1.0,0.0
+Tra Dao,2.0,135000.0
+Tra Dao,3.0,0.0
+Tra Dao,4.0,0.0
+Tra Dao,5.0,0.0
+Tra Dao,6.0,135000.0
+Tra Dao,7.0,0.0
+Tra Dao,8.0,0.0
+Tra Dao,9.0,0.0
+Tra Dao,10.0,0.0
+Tra Dao,11.0,90000.0
+Tra Dao,12.0,45000.0
+Tra Dao,13.0,45000.0
+Tra Dao,14.0,135000.0
+Tra Dao,15.0,45000.0
+Tra Dao,16.0,90000.0
+Tra Dao,17.0,90000.0
+Tra Dao,18.0,45000.0
+Tra Dao,19.0,0.0
+Tra Dao,20.0,0.0
+Tra Dao,21.0,90000.0
+Tra Dao,22.0,90000.0
+Tra Dao,23.0,0.0
